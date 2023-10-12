@@ -1,0 +1,14 @@
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\bin\Debug\net7.0\Datastruktur-uppgift-2.exe
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\bin\Debug\net7.0\Datastruktur-uppgift-2.deps.json
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\bin\Debug\net7.0\Datastruktur-uppgift-2.runtimeconfig.json
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\bin\Debug\net7.0\Datastruktur-uppgift-2.dll
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\bin\Debug\net7.0\Datastruktur-uppgift-2.pdb
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\obj\Debug\net7.0\Datastruktur-uppgift-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\obj\Debug\net7.0\Datastruktur-uppgift-2.AssemblyInfoInputs.cache
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\obj\Debug\net7.0\Datastruktur-uppgift-2.AssemblyInfo.cs
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\obj\Debug\net7.0\Datastruktur-uppgift-2.csproj.CoreCompileInputs.cache
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\obj\Debug\net7.0\Datastruktur-uppgift-2.dll
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\obj\Debug\net7.0\refint\Datastruktur-uppgift-2.dll
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\obj\Debug\net7.0\Datastruktur-uppgift-2.pdb
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\obj\Debug\net7.0\Datastruktur-uppgift-2.genruntimeconfig.cache
+C:\Users\gregf\OneDrive\Skrivbord\GA\Datastruktur-uppgift-2\obj\Debug\net7.0\ref\Datastruktur-uppgift-2.dll
